@@ -1,0 +1,13 @@
+D:\GitRepos\TestLead\TestLead\TestLead\bin\Debug\TestLead.exe.config
+D:\GitRepos\TestLead\TestLead\TestLead\bin\Debug\TestLead.exe
+D:\GitRepos\TestLead\TestLead\TestLead\bin\Debug\TestLead.pdb
+D:\GitRepos\TestLead\TestLead\TestLead\obj\Debug\TestLead.csprojAssemblyReference.cache
+D:\GitRepos\TestLead\TestLead\TestLead\obj\Debug\TestLead.Form1.resources
+D:\GitRepos\TestLead\TestLead\TestLead\obj\Debug\TestLead.New_Client.resources
+D:\GitRepos\TestLead\TestLead\TestLead\obj\Debug\TestLead.New_Job.resources
+D:\GitRepos\TestLead\TestLead\TestLead\obj\Debug\TestLead.Properties.Resources.resources
+D:\GitRepos\TestLead\TestLead\TestLead\obj\Debug\TestLead.Select_Job.resources
+D:\GitRepos\TestLead\TestLead\TestLead\obj\Debug\TestLead.csproj.GenerateResource.cache
+D:\GitRepos\TestLead\TestLead\TestLead\obj\Debug\TestLead.csproj.CoreCompileInputs.cache
+D:\GitRepos\TestLead\TestLead\TestLead\obj\Debug\TestLead.exe
+D:\GitRepos\TestLead\TestLead\TestLead\obj\Debug\TestLead.pdb

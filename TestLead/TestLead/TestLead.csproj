@@ -46,16 +46,50 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="DataSet.cs" />
+    <Compile Include="Entry Form.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Entry Form.Designer.cs">
+      <DependentUpon>Entry Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MTU Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MTU Info.Designer.cs">
+      <DependentUpon>MTU Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New Client.Designer.cs">
+      <DependentUpon>New Client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New Job.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New Job.Designer.cs">
+      <DependentUpon>New Job.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Select Job.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select Job.Designer.cs">
+      <DependentUpon>Select Job.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Entry Form.resx">
+      <DependentUpon>Entry Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MTU Info.resx">
+      <DependentUpon>MTU Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New Client.resx">
+      <DependentUpon>New Client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New Job.resx">
+      <DependentUpon>New Job.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -66,6 +100,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Select Job.resx">
+      <DependentUpon>Select Job.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
