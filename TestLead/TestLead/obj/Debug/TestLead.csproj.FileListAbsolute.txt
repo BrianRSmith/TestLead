@@ -11,3 +11,4 @@ D:\GitRepos\TestLead\TestLead\TestLead\obj\Debug\TestLead.csproj.GenerateResourc
 D:\GitRepos\TestLead\TestLead\TestLead\obj\Debug\TestLead.csproj.CoreCompileInputs.cache
 D:\GitRepos\TestLead\TestLead\TestLead\obj\Debug\TestLead.exe
 D:\GitRepos\TestLead\TestLead\TestLead\obj\Debug\TestLead.pdb
+D:\GitRepos\TestLead\TestLead\TestLead\obj\Debug\TestLead.MTU_Info.resources

@@ -6,31 +6,41 @@ using System.Threading.Tasks;
 
 namespace TestLead
 {
-    class DataSet
+    public class DataSet
     {
-        private List<List<string>> data = new List<List<string>>();
+        private List<List<string>> data;
+
+        public DataSet()
+        {
+            data = new List<List<string>>();
+        }
 
         string getCell(int row, int column)
         {
             return data[row][column];
         }
 
-        List<string> getRow(int row)
+        public List<List<string>> getData()
+        {
+            return data;
+        }
+
+        public List<string> getRow(int row)
         {
             return data[row];
         }
 
-        void addRow(List<string> value)
+        public void addRow(List<string> value)
         {
             data.Add(value);
         }
 
-        void editCell(int row, int column, string value)
+        public void editCell(int row, int column, string value)
         {
             data[row][column] = value;
         }
 
-        void exportToExcel()
+        public void exportToExcel()
         {
             // To be developed later
         }
