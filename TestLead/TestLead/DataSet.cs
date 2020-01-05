@@ -15,7 +15,7 @@ namespace TestLead
             data = new List<List<string>>();
         }
 
-        string getCell(int row, int column)
+        public string getCell(int row, int column)
         {
             return data[row][column];
         }
